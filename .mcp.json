@@ -11,7 +11,7 @@
       "command": "npx",
       "args": ["-y", "figma-developer-mcp", "--stdio"],
       "env": {
-        "FIGMA_API_KEY": "figd_lybb3Tb-QY38FlQFrKqFc-j7evL0EwRXd8eJpVAV"
+        "FIGMA_API_KEY": "figd_8tuXc7T5allxGJcQuyoTu_Wk76wQJESnK3E6ubGf"
       }
     }
   }
