@@ -30,4 +30,4 @@ Previously: scaled **athenaOne Android** from 0→1 to 5,500+ MAUs, grew mobile 
 
 #### Connect
 
-🌐 [sheldondesousa.com](https://www.sheldondesousa.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sheldondesousa) · ✉️ sheldondesousa@gmail.com
+🌐 [sheldondesousa.com](https://www.sheldondesousa.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sheldondesousa)
