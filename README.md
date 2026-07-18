@@ -21,7 +21,7 @@ Previously: scaled **athenaOne Android** from 0→1 to 5,500+ MAUs, grew mobile 
 | Project | What it is |
 |---|---|
 | 🏥 [**The Hush Initiative**](https://github.com/sheldondesousa/The-Hush-Initiative-Android) | A breathing app with scientifically-designed exercises, built as a social experiment using AI-assisted product development |
-| ⚽ **World Cup Prediction Model** | An AI-assisted experiment testing mathematical models (Elo ratings + Poisson distributions) to predict match outcomes using a data pipeline via Kaggle |
+| ⚽ [**World Cup Prediction Model**](https://github.com/sheldondesousa/FIFA-Prediction-Model) | An AI-assisted experiment testing mathematical models (Elo ratings + Poisson distributions) to predict match outcomes using a data pipeline via Kaggle |
 | 📊 **PM Dashboard** | A central source of truth and operation, built to remove dependence on multiple apps and constant context-switching |
 | 🚀 **Expedited Release Planning** | An experiment adapting AmbientNotes to how releases are planned, condensing a 3-day process into 3 hours |
 | 🤖 [**The AI Digest**](https://github.com/sheldondesousa/The-AI-Digest) | Curated AI-related posts from frontier models and other credible sources |
