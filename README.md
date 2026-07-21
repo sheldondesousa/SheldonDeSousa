@@ -8,11 +8,11 @@ Sr. Product Manager (Digital Technology, Consumer Products) at **athenahealth**,
 
 #### What I'm working on
 
-- Leading a reimagined **Conversational EHR** experience using AI agents — 2026 hackathon finalist
+- Leading a reimagined **Conversational EHR** experience using AI agents to retrieve, summarize, an act — 2026 hackathon finalist
 - Designed AI-augmented product workflows (LLMs + MCP tooling) spanning requirements → dev → GTM, adopted org-wide with **60%+ efficiency gains**
 - Piloting ML initiatives: behavioural profiling for onboarding, no-show prediction (**$120M+ revenue recovery target**), in-app predictive actions
 
-Previously: scaled **athenaOne Android** from 0→1 to 5,500+ MAUs, grew mobile MAUs from 21K to 67K+ over three years (85% retention), shipped clinical workflow tools used by 1,200+ medical coders.
+In addition: scaled **athenaOne Android** from 0→1 to 5,500+ MAUs, grew mobile MAUs from 21K to 67K+ over three years (85% retention), shipped clinical workflow tools used by 1,200+ medical coders.
 
 ---
 
