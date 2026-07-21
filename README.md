@@ -1,6 +1,6 @@
 ### Hi, I'm Sheldon 👋
 
-Sr. Product Manager (Digital Technology, Consumer Products) at **athenahealth**, based in London. 15+ years building products across consumer, healthcare, and enterprise — from 0→1 to scale. Currently focused on applied AI in product workflows and clinical software.
+Sr. Product Manager (Digital Technology, Consumer Products) at **athenahealth**, based in London. 15+ years building products across healthcare, consumer, and enterprise — from 0→1 to scale. Currently focused on applied AI in product workflows and clinical software.
 
 **Product Strategy & Execution · Applied AI/ML · Growth & Engagement · Research & Discovery · Stakeholder Management**
 
