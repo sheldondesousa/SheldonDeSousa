@@ -16,7 +16,7 @@ Sr. Product Manager (Digital Technology, Consumer Products) at **athenahealth**,
 In addition: 
 - Scaled **athenaOne Android** from 0→1 to 5,500+ MAUs
 - Led mobile engagement and grew cross-platform mobile MAUs from 21K to 67K+ over three years (Provider penetration 38% with 85% retention)
-- Shipped clinical workflow tools used by 1,200+ medical coders that brings efficiency and accuracy gains to RCM applications
+- Shipped 0→1 clinical workflow tools used by 1,200+ medical coders that brings efficiency and accuracy gains to RCM applications
 
 ---
 
