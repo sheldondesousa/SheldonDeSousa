@@ -27,7 +27,7 @@ In addition:
 | 🏥 [**The Hush Initiative**](projects/the-hush-initiative.md) | A breathing app with scientifically-designed exercises, built as a social experiment using AI-assisted product development |
 | 💧 [**The Hydration App**](projects/the-hydration-app.md) | A hydration app that uses personal and ambient data to mathematically calculate intake water levels, with a reminder and tracking system built in |
 | ⚽ [**World Cup Prediction Model**](projects/world-cup-prediction-model.md) | An AI-assisted experiment testing mathematical models (Elo ratings + Poisson distributions) to predict match outcomes using a data pipeline via Kaggle |
-| 📊 **PM Dashboard** | A central source of truth and operation, built to remove dependence on multiple apps and constant context-switching |
+| 📊 [**PM Dashboard**](projects/pm-dashboard.md) | A central source of truth and operation, built to remove dependence on multiple apps and constant context-switching |
 | 🚀 **Expedited Release Planning** | An experiment adapting AmbientNotes to how releases are planned, condensing a 3-day process into 3 hours |
 | 🤖 [**The AI Digest**](projects/the-ai-digest.md) | Curated AI-related posts from frontier models and other credible sources |
 
