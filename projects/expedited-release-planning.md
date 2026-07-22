@@ -1,6 +1,6 @@
-# 🚀 Expedited Release Planning
+# 🚀 Expedited Product Release Planning
 
-An experiment adapting AmbientNotes to how releases are planned, condensing a 3-day process into 3 hours.
+An experiment adapting the AmbientNotes idea to how releases are planned, condensing a 3-day process into 3 hours.
 
 ---
 
