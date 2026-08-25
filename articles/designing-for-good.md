@@ -1,5 +1,7 @@
 # 🌱 Designing for Good
 
+*June 01, 2024*
+
 All products should have a positive impact on the individual, the community, and the environment.
 
 Product is an outcome of design, and design is an outcome of creative thought. Thought is shaped by intent — so designing for good starts with purity of intent, before a single pixel or line of code exists.
