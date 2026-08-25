@@ -37,6 +37,14 @@ In addition:
 
 ---
 
+#### Articles
+
+| Article | What it's about |
+|---|---|
+| 🌱 [**Designing for Good**](articles/designing-for-good.md) | On why purity of intent — not commercial interest — should be the starting point of design |
+
+---
+
 #### Connect
 
 🌐 [sheldondesousa.com](https://www.sheldondesousa.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sheldondesousa)
