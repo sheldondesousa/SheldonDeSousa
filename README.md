@@ -10,7 +10,7 @@ Sr. Product Manager (Digital Technology, Consumer Products) at **athenahealth**,
 
 - A reimagined mobile 2.0 experience enhanced by a Vitual Assistant
 - **Conversational EHR** experience leveraging AI agents that retrieve, summarize, an act on user requests
-- AI-augmented product workflows (LLMs + MCP tooling) spanning requirements → dev → GTM, adopted org-wide with **60%+ efficiency gains**
+- AI-augmented product workflows (LLMs + MCP tooling) spanning requirements → dev → GTM, adopted by internal teams with **60%+ efficiency gains**
 - ML pilot initiatives: behavioural profiling for onboarding, no-show prediction (**$120M+ revenue recovery target**), in-app predictive Inbox actions
 - AI-assisted large qualitative feedback synthesis and thematic analysis
 
