@@ -15,12 +15,13 @@ Sr. Product Manager (Digital Technology, Consumer Products) at **athenahealth**,
 - AI-assisted large qualitative feedback synthesis and thematic analysis
 
 In addition: 
-- Scaled **athenaOne Android** from 0→1 to 5,500+ MAUs
+- Scaled **athenaOne Android** from 0→1 to 6,000+ MAUs
 - Built over 20 clincial features for the mobile application
+- Built over 30 interactive widgets for RCM medical coding teams
 - Lead mobile engagement for Android
-- Grew cross-platform (iOS & Android) mobile MAUs from 21K to 67K+ over three years (Provider penetration 38% with 85% retention)
+- Grew cross-platform (iOS & Android) mobile MAUs from 21K to 68K+ over three years (Provider penetration 38% with 85% retention)
 - Shipped 0→1 clinical workflow tools used by 1,200+ medical coders that brings efficiency and accuracy gains to RCM applications
-- Built voiceover accessibility for clinicians with visial disablities 
+- Built voiceover accessibility for clinicians with visual disablities 
 
 ---
 
