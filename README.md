@@ -19,7 +19,7 @@ In addition:
 - Built over 20 clinical features for the mobile application
 - Built over 30 interactive widgets for RCM medical coding teams
 - Lead mobile engagement for Android
-- Grew cross-platform (iOS & Android) mobile MAUs from 21K to 68K+ over three years (Provider penetration 38% with 85% retention)
+- Grew cross-platform (iOS & Android) mobile MAUs from 21K to 68K+ over three years (Provider penetration 37% with 85% retention)
 - Shipped 0→1 clinical workflow tools used by 1,200+ medical coders that brings efficiency and accuracy gains to RCM applications
 - Built voiceover accessibility for clinicians with visual disabilities 
 
