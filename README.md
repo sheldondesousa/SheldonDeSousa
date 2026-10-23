@@ -8,7 +8,7 @@ Sr. Product Manager (Digital Technology, Consumer Products), based in London. 15
 
 #### What I'm currently working on
 
-- A reimagined mobile 2.0 experience enhanced by a Vitual Assistant
+- A reimagined mobile 2.0 experience enhanced by a Virtual Assistant
 - **Conversational EHR** experience leveraging AI agents that retrieve, summarize, an act on user requests
 - AI-augmented product workflows (LLMs + MCP tooling) spanning requirements → dev → GTM, adopted by internal teams with **60%+ efficiency gains**
 - ML pilot initiatives: behavioural profiling for onboarding, no-show prediction (**$120M+ revenue recovery target**), in-app predictive Inbox actions
@@ -16,12 +16,12 @@ Sr. Product Manager (Digital Technology, Consumer Products), based in London. 15
 
 In addition: 
 - Scaled **athenaOne Android** from 0→1 to 6,000+ MAUs
-- Built over 20 clincial features for the mobile application
+- Built over 20 clinical features for the mobile application
 - Built over 30 interactive widgets for RCM medical coding teams
 - Lead mobile engagement for Android
 - Grew cross-platform (iOS & Android) mobile MAUs from 21K to 68K+ over three years (Provider penetration 38% with 85% retention)
 - Shipped 0→1 clinical workflow tools used by 1,200+ medical coders that brings efficiency and accuracy gains to RCM applications
-- Built voiceover accessibility for clinicians with visual disablities 
+- Built voiceover accessibility for clinicians with visual disabilities 
 
 ---
 
