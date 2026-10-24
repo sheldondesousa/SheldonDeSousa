@@ -11,7 +11,7 @@ Sr. Product Manager (Digital Technology, Consumer Products), based in London. 15
 - A reimagined mobile 2.0 experience enhanced by a Virtual Assistant
 - **Conversational EHR** experience leveraging AI agents that retrieve, summarize, an act on user requests
 - AI-augmented product workflows (LLMs + MCP tooling) spanning requirements → dev → GTM, adopted by internal teams with **60%+ efficiency gains**
-- ML pilot initiatives: behavioural profiling for onboarding, no-show prediction (**$120M+ revenue recovery target**), in-app predictive Inbox actions
+- ML pilot initiatives: behavioural profiling for onboarding, no-show prediction (**$120M+ revenue recovery opportunity, $1M pilot target**), and in-app predictive Inbox actions
 - AI-assisted large qualitative feedback synthesis and thematic analysis
 
 In addition: 
