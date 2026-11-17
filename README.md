@@ -27,8 +27,6 @@ In addition:
 
 #### Projects
 
-See the [tech stack overview](projects/tech-stack.md) for what each app is built with.
-
 | Project | What it is |
 |---|---|
 | 🍷 [**Uncork**](https://github.com/sheldondesousa/The_Winery_App) | A personal wine sommelier for Android that answers questions about grapes, bottles and wineries using on-device and cloud LLMs, with a retrieval layer that keeps each answer tied to curated grape notes and enthusiast reviews |
