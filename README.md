@@ -30,7 +30,9 @@ In addition:
 | Project | What it is |
 |---|---|
 | 🍷 [**Uncork**](https://github.com/sheldondesousa/The_Winery_App) | A personal wine sommelier for Android that answers questions about grapes, bottles and wineries using on-device and cloud LLMs, with a retrieval layer that keeps each answer tied to curated grape notes and enthusiast reviews |
+| 🧠 [**eBrain**](https://github.com/sheldondesousa/eBrain) | A personal research workspace for saving articles, books, PDFs and notes, then asking questions across them with source citations, running on a local FastAPI backend with on-device AI inference |
 | 🤳🏾  [**The Hush Initiative**](projects/the-hush-initiative.md) | A breathing app with scientifically-designed exercises, built as a social experiment using AI-assisted product development |
+| 🤳🏾  [**The Hush Initiative — Android**](https://github.com/sheldondesousa/The-Hush-Initiative-Android) | The Android-first, React Native rebuild of The Hush Initiative, with native timed breathing/mindfulness animations and local session metrics |
 | 💧 [**The Hydration App**](projects/the-hydration-app.md) | A hydration app that uses personal and ambient data to mathematically calculate intake water levels, with a reminder and tracking system built in |
 | ⚽ [**World Cup Prediction Model**](projects/world-cup-prediction-model.md) | An AI-assisted experiment testing mathematical models (Elo ratings + Poisson distributions) to predict match outcomes using a data pipeline via Kaggle |
 | 📊 [**PM Dashboard**](projects/pm-dashboard.md) | A central source of truth and operation, built to remove dependence on multiple apps and constant context-switching |
